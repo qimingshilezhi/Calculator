@@ -15,7 +15,7 @@ import android.app.Activity;
 
 public class MainActivity extends Activity {
 
-    int a;
+    
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
